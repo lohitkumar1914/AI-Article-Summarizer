@@ -58,8 +58,6 @@ cd ai-article-summarizer
 3. Copy the key
 4. After installing the extension, the options page will open automatically. Paste your API key there and save.
 
-> You can also open the options page later by right-clicking the extension icon and selecting **Options**.
-
 ---
 
 ## 📚 How to Use
@@ -84,48 +82,6 @@ cd ai-article-summarizer
 
 ---
 
-## 🧪 Example Prompts
-
-The extension uses tailored prompts based on your selected summary type:
-
-* **Brief**:
-  *"Provide a brief summary of the following article in 2-3 sentences..."*
-
-* **Detailed**:
-  *"Provide a detailed summary... covering all main points..."*
-
-* **Bullet Points**:
-  *"Summarize the following article in 5-7 key points..."*
-
----
-
-## 📥 Future Improvements
-
-* 🌐 Language translation options
-* 🗂 Support for multi-article pages (e.g., news aggregators)
-* 📤 Export summaries to PDF or Markdown
-* 🛡️ OAuth for Google API instead of manual key entry
-
----
-
-## 🧑‍💻 Author
-
-**Lohit Kumar**
-[GitHub: @lohitkumar1914](https://github.com/lohitkumar1914)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Contributing
-
-Pull requests are welcome! Feel free to open an issue or submit a feature request if you have ideas to improve this tool.
-
----
 
 ## 📷 Screenshots
 
